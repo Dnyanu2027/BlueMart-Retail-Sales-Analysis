@@ -1,8 +1,8 @@
 # Retail Analytics: Sales, Profit, Product and Inventory Analysis
 
-**Author:** Dnyaneshwari Madake
-**Role:** Data Analyst
-**Project type:** Portfolio project
+**Author:** Dnyaneshwari Madake     
+**Role:** Data Analyst              
+**Project type:** Portfolio project       
 
 ---
 
@@ -99,5 +99,5 @@ The analysis is done in Python (Jupyter Notebook). The final results are present
 Data Analyst
 
 - LinkedIn: www.linkedin.com/in/dnyaneshwari-madake
-- GitHub: 
+- GitHub: https://github.com/Dnyanu2027
 - Email: dnyaneshwarimadake4@gmail.com
