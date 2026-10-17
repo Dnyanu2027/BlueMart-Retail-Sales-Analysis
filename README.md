@@ -12,7 +12,8 @@ This project analyzes retail data for **BlueMart**, a chain of **50 stores acros
 
 The analysis is done in Python (Jupyter Notebook). The final results are presented as an interactive executive dashboard (`retail_dashboard.html`) that opens in any browser.
 
-# Here’s the dashboard: https://claude.ai/artifact/Jz4QE9fUYoy9iX8ijHYamD
+# Here’s the dashboard: 
+https://claude.ai/artifact/Jz4QE9fUYoy9iX8ijHYamD
 
 ## Business Questions
 
